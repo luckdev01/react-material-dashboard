@@ -1,4 +1,4 @@
-# Material-Magic
+# Material-Magic-Dashboard
 
 React Redux Material UI Admin Dashboard (Typescript + React + Redux + React-Router v4 + Material UI)
 =======================================
@@ -9,6 +9,10 @@ All help and contributions to the project are welcome!**
 Demo
 ----------------------------------
 * [Material-Magic] (https://material-magic-dashboard.herokuapp.com)
+
+ScreenShot
+----------------------------------
+![screen shot](https://user-images.githubusercontent.com/40633197/52529081-2f367b80-2ca0-11e9-8eb8-d51e5abaaec5.png)
 
 Prerequisites
 ----------------------------------
@@ -29,10 +33,6 @@ Yet to define the unit cases for the components created
 Compiling for production
 ---------------------------------------
 To compile the Javascript bundle for production, use `yarn build` or `npm build`.
-
-About Author
----------------------------------------
-[Author URL] (http://ranjithprabhu.in)
 
 License
 ---------------------------------------
